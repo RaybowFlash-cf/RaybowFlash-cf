@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="112" viewBox="0 0 640 112" role="img" aria-label="Now playing: Purpose Is Glorious, by Natalie Holt">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04160b"/>
+      <stop offset="1" stop-color="#0a2a15"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b8860b"/>
+      <stop offset="0.5" stop-color="#ffd700"/>
+      <stop offset="1" stop-color="#b8860b"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="636" height="108" rx="16" fill="url(#bg)" stroke="url(#gold)" stroke-width="2"/>
+  <circle cx="58" cy="56" r="26" fill="#0e4429" stroke="#39d353" stroke-width="2">
+    <animate attributeName="stroke" values="#39d353;#ffd700;#39d353" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M51 42 L73 56 L51 70 Z" fill="#ffd700"/>
+  <text x="104" y="36" font-family="Verdana, Geneva, sans-serif" font-size="12" letter-spacing="4" fill="#39d353">NOW PLAYING</text>
+  <text x="101" y="64" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-style="italic" fill="#ffd700">Purpose Is Glorious</text>
+  <text x="104" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#8b949e">Natalie Holt &#183; the theme of the God of Mischief &#183; begins at 2:05</text>
+  <rect x="104" y="94" width="498" height="5" rx="2.5" fill="#161b22"/>
+  <rect x="104" y="94" width="180" height="5" rx="2.5" fill="url(#gold)">
+    <animate attributeName="width" values="180;502;502" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
