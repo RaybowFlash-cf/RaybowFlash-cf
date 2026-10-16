@@ -32,15 +32,6 @@ automations, AI-powered platforms and interfaces that shouldn't exist (but do).
 Most of my greatest tricks happen in the shadows. **My repositories are private —
 until the time is right.**
 
-## 🎖️ Achievements
-
-<div align="center">
-  <img width="96" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw"/>
-  <img width="96" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire"/>
-  <img width="96" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO"/>
-  <img width="96" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark"/>
-</div>
-
 ## 🎵 Glorious Sound
 
 <div align="center">
