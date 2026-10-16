@@ -46,14 +46,6 @@ until the time is right.**
 </div>
 
 > *"Take comfort — I was never one for patience."*
-
-## 🐍 Currently Conjuring
-
-- 🔮 **AI-powered platforms** — multi-LLM clones, background agents, 500+ app integrations
-- 🕸️ **The Backrooms** — asynchronous experiments in the dark
-- 🦉 **OWL Interface** — a Kai 9000-style AI interface
-- 📜 **Portfolio** — copywriting, SEO, design & dev *(revealing soon)*
-
 ---
 
 <div align="center">
