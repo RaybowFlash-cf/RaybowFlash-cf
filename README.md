@@ -32,31 +32,6 @@ automations, AI-powered platforms and interfaces that shouldn't exist (but do).
 Most of my greatest tricks happen in the shadows. **My repositories are private —
 until the time is right.**
 
-## 🎵 Glorious Sound
-
-<div align="center">
-  <a href="https://music.youtube.com/watch?v=Ud9UxjqdqhA&t=125s">
-    <img src="assets/purpose-player.svg" alt="Now Playing — Purpose Is Glorious, by Natalie Holt" width="640"/>
-  </a>
-</div>
-
-## 🐍 The Serpent Devours
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaybowFlash-cf/RaybowFlash-cf/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaybowFlash-cf/RaybowFlash-cf/output/github-snake.svg" />
-    <img alt="golden snake devouring a year of green" src="https://raw.githubusercontent.com/RaybowFlash-cf/RaybowFlash-cf/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=RaybowFlash-cf&color=FFD700&style=for-the-badge&label=SOULS+VISITING" alt="Profile views"/>
-
-<br/>
 
 <em>"Your savior is here."</em>
 
